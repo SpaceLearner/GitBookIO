@@ -1,2 +1,10 @@
-# GitBookIO
-The book created by GJY
+---
+description: This is a book for my machine learning note and thinkings
+---
+
+# Introduction
+
+## 一点感想
+
+        入门机器学习也有一段时间了，奈何自己尚未对机器学习形成一个完整的知识体系，究其原因，在于没有对知识进行一个良好的总结，来方便自己随时复习。市面上的机器学习书有很多，大都有自己的一套思路和体系，但还没有对这些机器学习体系的一个总结。为了更好地提升自己对机器学习知识的认识，同时方便与大家交流思考，特在此记录下自己学习机器学习的过程。本书主要参考自PRML和MLAPP。
+
