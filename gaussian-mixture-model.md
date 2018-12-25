@@ -12,7 +12,7 @@ $$
 p(x)=\sum_{k=1}^K\pi_{k}\mathcal{N}(x|\mu_k, \Sigma_k) \tag{1.1}
 $$
 
-其中$\pi_k为分布的权重$
+其中$\pi_k$为分布的权重
 
 
 
